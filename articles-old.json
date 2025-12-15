@@ -1,0 +1,35 @@
+{
+    "format": "article-collection",
+    "version": 1,
+    "lastChanged": "2025-12-15",
+    "range": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+    },
+    "articles": [
+        {
+            "id": "abcdef",
+            "slug": "old-article",
+            "title": "Old Article",
+            "date": "2024-12-10",
+            "tags": ["dev", "frontend"],
+            "authors": ["@jrmyv"],
+            "changes": [
+                {
+                    "date": "2025-12-15",
+                    "authors": ["@jrmyv"],
+                    "description": ""
+                }
+            ],
+            "content": {
+                "format": "markdown",
+                "encoding": "utf-8",
+                "body": "## Markdown body"
+            }
+        }
+    ],
+    "previous": {
+        "path": null,
+        "lastChanged": null
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "format": "article-collection",
+    "version": 1,
+    "lastChanged": "2025-12-15",
+    "range": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+    },
+    "articles": [
+        {
+            "id": "123def",
+            "slug": "test-article",
+            "title": "Test Article",
+            "date": "2025-12-12",
+            "tags": ["dev", "news"],
+            "authors": ["@jrmyv"],
+            "changes": [],
+            "content": {
+                "format": "markdown",
+                "encoding": "utf-8",
+                "body": "## Markdown body"
+            }
+        }
+    ],
+    "previous": {
+        "path": "./articles-old.json",
+        "lastChanged": "2025-12-15"
+    }
+}
